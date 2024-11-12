@@ -31,3 +31,15 @@ A brief summary is included below the final visualization of each section, summa
 
 ## 🎨 Sample Visualizations
 Here are a few sample visualizations to give you a preview of the analysis:
+
+
+<div align="center">
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231439.png" alt="ETL Pipeline Diagram" width="400"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231701.png" alt="ETL Pipeline Diagram" width="400"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231520.png" alt="ETL Pipeline Diagram" width="400"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231542.png" alt="ETL Pipeline Diagram" width="400"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231614.png" alt="ETL Pipeline Diagram" width="400"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231641.png" alt="ETL Pipeline Diagram" width="400"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231746.png" alt="ETL Pipeline Diagram" width="400"/>
+  <img src="https://github.com/hrishikesh-2000/Images/blob/main/IPL%20EDA/Screenshot%202024-11-12%20231805.png" alt="ETL Pipeline Diagram" width="400"/>
+</div>
